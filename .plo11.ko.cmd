@@ -1,0 +1,1 @@
+savedcmd_plo11.ko := ~/buildroot/output/host/bin/aarch64-buildroot-linux-gnu-ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T /home/ssszcmawo/buildroot/output/build/linux-6.18.7/scripts/module.lds -o plo11.ko plo11.o plo11.mod.o .module-common.o

@@ -1,0 +1,1 @@
+savedcmd_Module.symvers :=  /home/ssszcmawo/buildroot/output/build/linux-6.18.7/scripts/mod/modpost -M          -o Module.symvers -n -T modules.order -i /home/ssszcmawo/buildroot/output/build/linux-6.18.7/Module.symvers -e 
