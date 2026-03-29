@@ -1,7 +1,7 @@
 
 # PLO11 UART Driver
 
-Custom UART driver for the Linux kernel implementing a platform-based serial device with Device Tree support.
+Custom UART driver for the Linux kernel arm64 architecture implementing a platform-based serial device with Device Tree support.
 
 
 
